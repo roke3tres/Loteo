@@ -62,15 +62,15 @@
   min-width: 280px;
 }
 
-.projecttitle {
+/* .projecttitle {
   font-family: "Borna";
-  font-size: 6rem;
+  font-size: 2rem;
   color: rgba(243, 244, 239, 1);
   position: relative;
   transform: translate(0, -1vh);
   z-index: 2;
   margin-top: -9%;
-}
+} */
 
 .lotesubtitle {
   font-family: "Borna";
