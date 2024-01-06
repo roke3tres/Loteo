@@ -1,0 +1,25 @@
+.sierras {
+  font-family: "Borna";
+  font-size: 8rem;
+  padding-top: 38vh;
+  color: rgba(243, 244, 239, 1);
+}
+
+.background {
+  background-image: url("../Imagenes/Aerea4k.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .background {
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .sierras {
+    font-size: 4.5rem;
+    padding-top: 38vh;
+    color: rgba(243, 244, 239, 1);
+  }
+}

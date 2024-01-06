@@ -1,0 +1,42 @@
+.ubicacion {
+  font-family: "Borna";
+  font-size: 8rem;
+  color: rgba(243, 244, 239, 1);
+  margin-top: -1vh;
+  padding-top: 8rem;
+}
+
+.mapa {
+  position: relative;
+  min-width: 70vw;
+  height: 70vh;
+}
+
+@media (max-width: 768px) {
+  .mapa {
+    position: relative;
+    min-width: 30vw;
+    height: 28vh;
+  }
+
+  .ubicacion {
+    font-size: 4.5rem;
+    margin-top: -1vh;
+    color: rgba(243, 244, 239, 1);
+  }
+}
+
+.distancias {
+  font-family: "Borna";
+  font-size: 2rem;
+  color: rgba(243, 244, 239, 1);
+  margin-top: 3vh;
+}
+
+.lista {
+  font-family: "Borna";
+  font-size: 1rem;
+  color: rgba(243, 244, 239, 1);
+  margin-top: 1vh;
+  max-width: 20rem;
+}

@@ -1,0 +1,82 @@
+.curvas {
+  position: relative;
+  width: 100vw;
+  margin-top: -1vh;
+}
+
+.lotetitle {
+  font-family: "Borna";
+  font-size: 8rem;
+  color: rgba(243, 244, 239, 1);
+  position: relative;
+  transform: translate(0, 18vh);
+  z-index: 2;
+  margin-top: -9%;
+}
+
+.lotetitle14 {
+  font-family: "Borna";
+  font-size: 6rem;
+  color: rgba(243, 244, 239, 1);
+  position: relative;
+  transform: translate(0, 2vh);
+  z-index: 2;
+  margin-top: -9%;
+}
+
+@media (max-width: 768px) {
+  .lotetitle {
+    font-size: 2rem;
+    margin-top: -6vh;
+    color: rgba(243, 244, 239, 1);
+    transform: translate(0, 6vh);
+  }
+  .projecttitle {
+    font-family: "Borna";
+    font-size: 1rem;
+    color: rgba(243, 244, 239, 1);
+    position: relative;
+    transform: translate(0, -1vh);
+    z-index: 2;
+    margin-top: -9%;
+  }
+  .lotetitle14 {
+    font-size: 1.5rem;
+    margin-top: -6vh;
+    color: rgba(243, 244, 239, 1);
+    transform: translate(0, 0vh);
+  }
+  .lotesubtitle {
+    font-size: 1rem !important;
+    margin-top: -0.8vh;
+    padding-bottom: -0.5vh;
+    color: rgba(243, 244, 239, 1);
+    transform: translate(0, 0vh);
+  }
+}
+
+.polycam {
+  height: 95vh;
+  width: 100vw;
+  min-height: 280px;
+  min-width: 280px;
+}
+
+.projecttitle {
+  font-family: "Borna";
+  font-size: 6rem;
+  color: rgba(243, 244, 239, 1);
+  position: relative;
+  transform: translate(0, -1vh);
+  z-index: 2;
+  margin-top: -9%;
+}
+
+.lotesubtitle {
+  font-family: "Borna";
+  font-size: 1.8rem;
+  color: rgba(243, 244, 239, 1);
+  position: relative;
+  transform: translate(0, -1vh);
+  z-index: 2;
+}
