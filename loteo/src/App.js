@@ -2,7 +2,7 @@ import {Routes, Route} from "react-router-dom";
 import "./App.css";
 import Home from "./Components/Home";
 import ModeloPredio from "./Components/ModeloPredio";
-import Vistaplanos1000 from "./Components/Vistaplanos4000";
+import Vistaplanos1000 from "./Components/Vistaplanos1000";
 import Vistaplanos4000 from "./Components/Vistaplanos4000";
 
 function App() {
