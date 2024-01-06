@@ -69,7 +69,7 @@ function BasicExample() {
               <NavDropdown.Item href="#action/3.3">
                 <Link
                   className="text-decoration-none text-light mt-2"
-                  to="/modelopredio"
+                  to="/albumgeneral"
                 >
                   Album General
                 </Link>
@@ -99,7 +99,19 @@ function BasicExample() {
                 </Link>
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#link">Contacto</Nav.Link>
+            <NavDropdown title="Contacto" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#action/3.3">
+                <Link
+                  className="text-decoration-none text-light mt-2"
+                  to="whatsapp://send?phone=+59899136877&text=Hola,%20estoy%20interesado%20en%20el%20proyecto."
+                >
+                  WhatsApp
+                </Link>
+              </NavDropdown.Item>
+              <NavDropdown.Item href="mailto:sierrasdelpenasco@gmail.com">
+                Email
+              </NavDropdown.Item>
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>

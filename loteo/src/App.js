@@ -5,6 +5,7 @@ import ModeloPredio from "./Components/ModeloPredio";
 import Vistaplanos1000 from "./Components/Vistaplanos1000";
 import Vistaplanos4000 from "./Components/Vistaplanos4000";
 import ModeloTierraVino from "./Components/ModeloTierraVino";
+import AlbumGeneral from "./Components/AlbumGeneral";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/lotes10004000" element={<Vistaplanos1000 />} />
         <Route path="/lotes4000" element={<Vistaplanos4000 />} />
         <Route path="/tierrayvino" element={<ModeloTierraVino />} />
+        <Route path="/albumgeneral" element={<AlbumGeneral />} />
       </Routes>
     </div>
   );
