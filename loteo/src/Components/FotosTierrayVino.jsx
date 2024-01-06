@@ -1,0 +1,34 @@
+import "../Styles/Projects.css";
+import BasicExample from "./Nav";
+
+function FotosTierrayVino() {
+  return (
+    <>
+      <BasicExample />
+      <div className="fotos">
+        <img
+          src="https://lh3.googleusercontent.com/pw/ABLVV87Axn3mlpQ9qxccjYAE7Z3X6_8SP1IFF0yDhXoMozb_KbEdZz2ZdjoJXO7k7hNzEKSPYttQ8GEZLKGQEi7F8Og6AZCzfsXIWupSxzS3vASlmFvB9lT2XnK2q469K7WJ5AQJVZ9qkyIFItqjf2khRulB7GSbwli6xWMoodVQY57S5fksk23XCDAdyvhS6asMU0yEx_jHJqk2KzVWc9tW9DQoRbd_HWsf-bLI9DFenClkcmswfCfFtZglWR53yVFRRGmgAwrhGirCLpgNzDy1fed9VkE8sk5AxicNknXTIbv7gw4yPaL6e9BCWvQuIBgftKF8PjagzicBGeu8eZa0fOsGmhA1XJfzzFNE01hLvcJW6N7v76MoHtUFTBrLPJ7ZKDGRsv4mkb6AW6o3ASzwUtyPhlrsPJB9bZEncEaB1y6-wj0KlSHFX9nd2ihvq_mK5P9e90LE8NxZyuhZqtC6loX9r2Y2oOP1KCtWGKZ6OkaS1CpravOYKw5bwQg6CV-Z4TBh0DrfiU9MqJAKMqhg9jUIcKUUdeNFrJdZIu11YmYZ4weVILiO96iBLggOh4C8VGHUYigmBX5IaBioOh-k1ynCzq81iulQrWnSR9Vskyn8hN-lJeYhWa3v39XXIiMyPMqAz-_3HiBa3zaEnR2SujqnzPlwqnMTsY4uHKlXgwWWjbUxOyY80_YyeUTPFwaem2F1W0ysa61BjH8nx2wITdWb1kTVyXbZda_CN9U0HdUIt5Gg8YkRkB4LVqR1WHoBswg3QfHkvY1hh-p2A54dqPRkweWqra5tcMVls3xUw6VgZOl87WLPQMsKWXmLKBd7h1OCvwS-e7EBfvLmpPvjOTrGu_oG9mwbzpDaRG7ZHqFUdQDfyC56MV9RU5XFEQorTQZ5K6oAgt8xPWLVatWrIyEBp27Sz2AMRgD97MHn4IsOGbK6lE9k7bFWgGiYXw2_q0xUSoeMoQH0erpQH9pmwpY5VA3pKm8uDQIDL5dKsz4=w1505-h1003-s-no?authuser=0"
+          alt="Album General"
+          className="curvas"
+        ></img>
+        <img
+          src="https://lh3.googleusercontent.com/pw/ABLVV86DrwmnM-ZEHOxDMaQ6oLTmOb0J6i4UG-oAeeLEjOwJ9Zy2n-2buXF8kegs9wRR54EqaHEtNZl2Vo4kBFAfvcYfL4Jp77NVlUr3lxEAj7-7z2JxslTtaAuyY6o8gsBYdbw9khnngc2762aqIJeXCEZeOAswBWB3RXzQRcT54IZ4-F-wgGsG2sdcbnY22Zlr5bhPCfEj65dXoUKbtKzMbgzg7oDsp2Oiz8hEGWEkr54--1clEV-L3sjR7j3tUsBVGTEbDMV0qKwtUuJelI0L7i4KkULtP9irwnIl3M92bXmaieZq5fQuEBWSaos0QNTS30vQK1FtGQrghki4cfNyJFwEkrTem97xwtMv8WQIdL2lA89q94c7vuPp9mpEHKv5xi_R7R9Bvx4Pkb6Y-AJ4iir4ly8zVN0kmmen44RSKcUCGAIi_zN4Gw-y536NROfJqONizadaS7bh_vJJImrw0BdKWlDYDgcx0l5egNYVENdorAR0wHtp8Wm7JwZc-rTGh-MvWFUHTxXu7RDllrieW3JJnJnujTYjzZQgOk3DbcOgS068BB-hadlU0qC3dZ5VewB5V2CkdU55I7GNuiNo3DoXRy1Brc937QW4e6n1SX8ZxAJZHGprhBj_KaS8M-AHHIjojpswbB26_4DydspRzoMzGCLVoTJiMcQLK9IzNu20T--Oc_30mqqSsVnVPPq0GtONVlvbrHcLcJYoPpGCrl2AIFeZWnK7gMKtjtFa3Zr7FlFJqrHi1YjMy2mZlSJK519B_uRTxMcL9Hl4cGd38nBnJSfle9Ks5kFAC8dC27HZAU2N0z4-7r3oAJvwl2uyhgtbjJ-IASPdF7nNuB0Y0VQ1SVtYBdjBw3VWKVcscvsSioRWMa5SPJUO4mZY_spfpEHN2eHrClA7NJcU8SyvhSaXMohT_z7mPmVJO1pEk_FflnCOT5zBRxbmzXyBQcAEBC1H0-mOOQHtUqZWBUU45V4eMbgiIp62dfdh5YUybAs=w1505-h1003-s-no?authuser=0"
+          alt="Album General"
+          className="curvas"
+        ></img>
+        <img
+          src="https://lh3.googleusercontent.com/pw/ABLVV87tCqaei9253_iVWrl80IUdulIEyGW3meilzO12LkRY5roozsqW2wSbTz9OUfh6xs-M-zj97wZjQY23OK3hie6vtPNY99RCHbDhEKrGSM9oA9gFdmxmhEdWlaI5J4Ik9Ojf-my86r7NmqbRmB43ETOw0Pk4NZVElWDf5z-NZNq-a4X6D8y7IeGlgHFh0Dd4v_rB_3XfKBGOr6P6BXljogdpG2JFFYUxCTMcNu-_uFdqkOnTvwQyeGhw5YcgIPj29xbUWGEiJxmrItYzHd7YOAoKZQF2aK5ytNaY8WQLo1aJZYdV9WFUrT-mZjww__1L6o0VHIdpmelU_wsWVlYEBV5iySONsowYrv0SG-oy2i34_iGvykCr0mhR_hS78quT84SIqjKmLUeEt7vKyk6hNHBy63-LpwqEKKnwJWaJyC7xztQ8SyG4D5-rWWOusKjXGIwR0BVsbuZUCAh5XphrNITFwOyxD6hcSxcEh0rkz2-B4nUb_FEAjLYzN_pQ3X6isAEz7UVljbqVj_Wq2XGzHD3m0pokv9Sr3OZk64AGZF1ZJuAXrmKpBj4oOW8NsgIF5doMtS79fSF2k-0vNaBt_UBlPcjlm0EH_19Lm888BAhztEvFEpCVb4gzuy8em2cpI93OddGZEWL6oqEZZVcRW1gKQwz11xZ8-YQ9AnjQMoP2sEp5LiX9EvE-FjQMIZtqguD20bryi0P7h3GoLxOzAJb6vjhEVBZNuWFHVUxslE12YHHAGkM4ixRKxebBLKzzeRTDpQiUTuOrAVNdDb-GK4MeePl4eolvCYgO4g_UIU8QzFP6FGbo1rjZTGmXK8SwKb6m8BIuAG5KVb_GVXRb-H6neRSUq0-DK9CggzCjWIBEJtCtT9b5F74Ei5vz7OfCm6uStM1f7uM7IK2TUtNRmi4k_7dS0FPVYwZAo0Dk8qLDlwknsDLmsl0pYNl4wrV0YfGbPJ7Ihn9Q_lZKD5_WpLFk-3RLr1Bw9Fass2tkuqs=w1505-h1003-s-no?authuser=0"
+          alt="Album General"
+          className="curvas"
+        ></img>
+        <img
+          src="https://lh3.googleusercontent.com/pw/ABLVV84pmPyYBxlylqd6Cyha0WwxkYOPxF2MkzTD17JfICUITr_fWK_7Tgh6kDaWYAjess0q2puqEJ57lAUUBsGVnDR1HVAUEu2Hoyttiks09Q0-syrtOKQDY-pggKWaWBZEwhFQCQ1l5tzJkBlj6jzoV9CH2qWiF2iH2uQi9VkAM275TW7w3y8j31GXzcAucGSTcix63V7PFnaPxlIdX4eT7JebdizdSyLF1gCTWRNQd1rYahxVgBHFlGMLYamZptIm0lNdVCzIcm5qTwgsWpIn3F8veTZwKACQ4ajH5orXq3FIoRl-wlXelZ2mYxjngPG4bmB8RMo66fxvw1ymIjP1CkSw1muqnTh1sRqe9Z_yaxb350bbj4_mkz-FDyvbi3M3fK4VcEuTWeIuYe4TpG7dk9WbmSmv5M3Ek2w8iizDdk3sCi3pa8OjHCCLUtxbu9zLiStmqRIkuOSQ-xvAY0Y-kbyPn4Zgv47kKFVJatpbal0ANskmDyItZZs_DZpgPbmktdh7jKdiwd2JsryHp9uiZ1trqfL5aKh-iuek-DPhDnlPBes-n8h5jzdNcREIXrbEtaBSVcQIWxvwxZd-ENhlE4iRqLSoSICHh-QPaeIiJyx4dVrwc4SulzZEuDngfyWHo0wtjotkBs5VeZVZk3fJGVxXVwb7P6-uAM6o4Cs4zEyhfGkNxy8-b-QjZB5kmdMP9120BRjqp3YOofp32Sq8SzC1Wrz2iz92qBpLkiGPCcFKc-_1hGe-g_1VHj5wI2oIFdEk9_Hnybod0wBjuaBm7qdxhrDKHgGHegKnpxFbzHe5Hzs-Q8KpAh1OrypBFDbOc-oPx1nSw77pE0boPJHaOSuaPANCXY1qGE230e4J72NES2SGLHss_-ttLTbmQ21LSkYK4Q2-bpk43mv28bBvCzL8J6RBGQu60Hgi3ERFz-LZHN_tbTNQ34ICe4hHHbceUxHgxQ7RQ55rKk_n3-gNVFniaIHH7SSrcNisQX2v9cg=w1504-h1003-s-no?authuser=0"
+          alt="Album General"
+          className="curvas"
+        ></img>
+      </div>
+    </>
+  );
+}
+
+export default FotosTierrayVino;

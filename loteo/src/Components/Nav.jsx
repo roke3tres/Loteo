@@ -63,6 +63,14 @@ function BasicExample() {
                   Casa Taller de Cerámica
                 </Link>
               </NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.5">
+                <Link
+                  className="text-decoration-none text-light mt-2"
+                  to="/modeloportuguesa"
+                >
+                  Casa Portuguesa
+                </Link>
+              </NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown title="Fotos" id="basic-nav-dropdown">
@@ -77,7 +85,7 @@ function BasicExample() {
               <NavDropdown.Item href="#action/3.4">
                 <Link
                   className="text-decoration-none text-light mt-2"
-                  to="/tierrayvino"
+                  to="/fotostierrayvino"
                 >
                   Casa Tierra y Vino
                 </Link>
@@ -85,7 +93,7 @@ function BasicExample() {
               <NavDropdown.Item href="#action/3.5">
                 <Link
                   className="text-decoration-none text-light mt-2"
-                  to="/taller"
+                  to="/fotostaller"
                 >
                   Casa Taller de Cerámica
                 </Link>
@@ -93,7 +101,7 @@ function BasicExample() {
               <NavDropdown.Item href="#action/3.5">
                 <Link
                   className="text-decoration-none text-light mt-2"
-                  to="/taller"
+                  to="/fotosportuguesa"
                 >
                   Casa La Portuguesa
                 </Link>

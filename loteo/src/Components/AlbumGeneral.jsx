@@ -6,7 +6,6 @@ function AlbumGeneral() {
     <>
       <BasicExample />
       <div className="fotos">
-        {/* <h2 className="lotetitle14">Lote B10</h2> */}
         <img
           src="https://lh3.googleusercontent.com/pw/ABLVV87saOZsFPxeFANuXs2bfMEqQ-2zDzrpmvAcy8PAtLK86RdgwWRiFY9ChJo0l76HQEfuqn9lH01nOEy_R92Sf7sGqyqN2_OHPhcA-k9HUIbdZBOmQ7puMpRtssSGYGpYC8WDU5dGfQr7P7COLVVTH2Vn=w1920-h460-s-no?authuser=0"
           alt="Album General"
