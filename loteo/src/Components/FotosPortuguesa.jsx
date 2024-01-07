@@ -7,7 +7,7 @@ function FotosPortuguesa() {
       <BasicExample />
       <div className="fotos">
         <img
-          src="https://photos.app.goo.gl/FWiEUt4dqGJnmwTW8"
+          src="https://lh3.googleusercontent.com/pw/ABLVV87l3DT-bEZ8o5Uq21m0XFGs_uEXMGrN7qN9EnRhuTiIj-IcVM2_cZxCAp2-n7pGLiaxauJ09csE5kVTRImDpL5Hh2HVfrbrf9IvFkJ32Ap3_Mx_bU47XA0waUL3tmB9kRtTfDq0om4eESbB10Tsr8GG=w1733-h975-s-no?authuser=0"
           alt="Fotos Portuguesa"
           className="curvas"
         ></img>
