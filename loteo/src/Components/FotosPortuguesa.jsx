@@ -7,7 +7,7 @@ function FotosPortuguesa() {
       <BasicExample />
       <div className="fotos">
         <img
-          src="https://lh3.googleusercontent.com/pw/ABLVV86Y1BsqhEdzdxLvjuu_4nIxYkYhCQKc9zvXawc5R4qo04AF5I6UtgLRXiaSwDX80IASOSIjwRroA3fg9znZ1QxEPQKuB1Fv5px1aQlrR5YznDK0OtswL1osoxxiPLOJoClpSkypoD_GilWh8GN30exQ9zmxd5epCAQYRRjdlf7ubq4aMnJFCqRj9Kr2PKrJ4B0UVQ1d0Mez-cOOs1ihq0e-hMe90SJsXJhvOf0LzIJ7W34vn3wNxFQEctwkOBioNPh0IZ1Nst_lP7FGVWrSzHcJSOgLaBgY2-L7oin4Pj73FEVkEliO7NoO_eVOI4uKUr6GwRItEyifir8bpMeqdJ79EMVVu-tQ0ZW-HZB4ESHUa1Ifekt0Swj6IQ80FK-di2MCm9fMPhN0kRT9diu7milOlcoSt7Dur3yXfDzfj_RmqP1apEJKYX47wnJqI3xZXeaSNBGx-jWEaiBqjvULn8nCYJ_maKZfHy1yPH_a5hToFK55FKRZwazZESqYD83tUfu310RFm8Rybmz4Ms3gGBcugf3B4iaWhuPRAoeJ-FljWF35eEI6sYqLh7ecp5KMWouuX54YWjpBg-puhKcFDJSP93ik4hqSx7gimGee4uqLTlsZMPhfowxFSRCyTu_XPR1Po6f5GTUa8y96nBO2zIwZctPBkVQKGLkgxx8SAmSa3pxZCdHwPvwck9SZNvcBV_XLh1M78ZjVNwwR4b6hA1X41Ob3a3C9ayHC_7kS-AKBU6JxdvcvYNNjJl7p6CnXX8OtshnCVOQLC_I-GqFwmiGIXKaiQK-ZxHblVAL86p0kJMI8hmqFuU7p6AhzGAWHVl9CbVB_bjfXy3BE1KVXz7WAn-C62gaZHkX0KAz9XTM3OAO7UZa1Uq5V1H2pkFG1DR3VQAnBv1kJRqZoHhTCFSMcj8EWQm1edc1SL08_u2j-p39L4aizffDw1-7MAzBpjDMYus8kXwG7SYX2eud8_fFcz3v6cFe9EDhDVU_7ju4=w1783-h1003-s-no?authuser=0"
+          src="https://photos.app.goo.gl/FWiEUt4dqGJnmwTW8"
           alt="Fotos Portuguesa"
           className="curvas"
         ></img>
