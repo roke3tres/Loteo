@@ -22,7 +22,7 @@ function FotosPortuguesa() {
           className="curvas"
         ></img>
         <img
-          src="hhttps://lh3.googleusercontent.com/pw/ABLVV87-1JgFnB6BZq4TUnVUPXBO8mPANErJS_c4wDdWpurgefuJ9kcurmAzqTJY2pyrjTWyrv3-K1tMV5mzHl-3xVeLHYHQJaHUGO4tFlYP7aADkjiUNKSe4GyBDJbPSn0NVJiUvbhOp2MD8vOJ8AhYcpkJ=w1463-h975-s-no?authuser=0"
+          src="https://lh3.googleusercontent.com/pw/ABLVV87-1JgFnB6BZq4TUnVUPXBO8mPANErJS_c4wDdWpurgefuJ9kcurmAzqTJY2pyrjTWyrv3-K1tMV5mzHl-3xVeLHYHQJaHUGO4tFlYP7aADkjiUNKSe4GyBDJbPSn0NVJiUvbhOp2MD8vOJ8AhYcpkJ=w1463-h975-s-no?authuser=0"
           alt="Album General"
           className="curvas"
         ></img>
